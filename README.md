@@ -86,9 +86,9 @@ steghide-project/
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Ihekweme Arinze**  
 Cybersecurity Enthusiast  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/Arizonal8)
 
 ---
 
